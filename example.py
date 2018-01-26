@@ -13,7 +13,6 @@ def main():
     skip.insert(245)
     print(6 in skip)
     skip.remove(245)
-    print(skip.find(3))
 
 
 if __name__ == "__main__":

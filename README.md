@@ -1,6 +1,8 @@
 # py_skip_list
 
-base on https://github.com/toastdriven/pyskip/blob/master/pyskip.py
+skip_list test; then add thread lock support.
+
+source code base on https://github.com/toastdriven/pyskip/blob/master/pyskip.py
 
 ### Usage
 
@@ -25,5 +27,4 @@ True
 4
 >>> skip.find(3)
 <Skiplist: 3>
-
 ```
